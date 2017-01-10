@@ -1,7 +1,15 @@
 .col-md-3 {
-  border: solid red;
   text-align: center;
   margin: 10px;
+  padding-top: 15px;
+  padding-bottom: 150px;
+  border: grey solid;
+  border-radius: 20px;
+  background-color: rgba(220, 220, 220, .3);
+}
+
+.row {
+  margin-top: ;
 }
 
 h1 {
@@ -12,4 +20,12 @@ h1 {
 
 p {
   display: none;
+}
+
+h3:hover {
+  text-decoration: underline;
+}
+
+h3 {
+  cursor: pointer;
 }
