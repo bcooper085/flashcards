@@ -1,3 +1,15 @@
 .col-md-3 {
   border: solid red;
+  text-align: center;
+  margin: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin: 75px;
+  font-family: cursive;
+}
+
+p {
+  display: none;
 }
